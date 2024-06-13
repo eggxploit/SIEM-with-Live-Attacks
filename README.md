@@ -6,7 +6,7 @@
 In this lab, we'll learn how to set up an Active Directory home lab using Oracle VirtualBox. This will help you understand Active Directory and Windows networking. Take your time with the tutorial to grasp each step. Write down any questions you have about the process and try to build it on your own without always relying on the tutorial.
 
 ## Network Topology
-![Network Topology](URL)
+![Network Topology](https://i.imgur.com/bNVFOVy.png)
 
 ## Utilities Used
 - **PowerShell**
